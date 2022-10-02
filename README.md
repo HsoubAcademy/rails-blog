@@ -1,11 +1,13 @@
 
 <div dir="rtl">
 
-# تطوير موقع مدونتك
+<h1 dir="rtl"> أساسيات إطار العمل Rails </h1>
 
-### الشيفرة المصدرية لموقع مدونتك الخاص بدورة "أساسيات إطار العمل Ruby on Rails"
+<p dir="rtl">الشيفرة المصدرية الخاصة بمسار أساسيات إطار العمل Rails ضمن دورة "تطوير تطبيقات الويب باستخدام لغة Ruby" المقدمة من أكاديمية حسوب</p>
 
-<a href="https://academy.hsoub.com/learn/ruby-web-application-development/">أساسيات إطار العمل Ruby on Rails</a>
+<div dir="rtl">
+<a href="https://academy.hsoub.com/learn/ruby-web-application-development/">دورة تطوير تطبيقات الويب باستخدام  Ruby</a>
+</div>
 
 # خطوات تشغيل المشروع
 
